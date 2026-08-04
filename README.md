@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AshmitaArumugam/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AshmitaArumugam/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AshmitaArumugam/LeetCode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/AshmitaArumugam/LeetCode/tree/master/3731-find-missing-elements) |
@@ -20,26 +21,35 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AshmitaArumugam/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AshmitaArumugam/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AshmitaArumugam/LeetCode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AshmitaArumugam/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AshmitaArumugam/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AshmitaArumugam/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AshmitaArumugam/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AshmitaArumugam/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AshmitaArumugam/LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AshmitaArumugam/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AshmitaArumugam/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AshmitaArumugam/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AshmitaArumugam/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AshmitaArumugam/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AshmitaArumugam/LeetCode/tree/master/1406-stone-game-iii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AshmitaArumugam/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
