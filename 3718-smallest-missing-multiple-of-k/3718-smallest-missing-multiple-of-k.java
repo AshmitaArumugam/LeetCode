@@ -7,9 +7,14 @@ class Solution {
             set.add(i);
         }
         int mul=k;
-        while(set.contains(mul)) {
-            mul += k;
+        for(int i : set)
+        {
+            if(!set.contains(mul))
+            {
+                return mul;
+            }
+            mul+=k;
         }
-        return mul;   
+        return mul;
     }
 }
