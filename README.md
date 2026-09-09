@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AshmitaArumugam/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0486-predict-the-winner](https://github.com/AshmitaArumugam/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AshmitaArumugam/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AshmitaArumugam/LeetCode/tree/master/1140-stone-game-ii) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AshmitaArumugam/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/AshmitaArumugam/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AshmitaArumugam/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/AshmitaArumugam/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -242,4 +244,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshmitaArumugam/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AshmitaArumugam/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
