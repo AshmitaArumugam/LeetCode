@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AshmitaArumugam/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0486-predict-the-winner](https://github.com/AshmitaArumugam/LeetCode/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/AshmitaArumugam/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AshmitaArumugam/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AshmitaArumugam/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/AshmitaArumugam/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/AshmitaArumugam/LeetCode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshmitaArumugam/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Trie
 |  |
