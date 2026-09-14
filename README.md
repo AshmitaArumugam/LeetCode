@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/AshmitaArumugam/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/AshmitaArumugam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1386-cinema-seat-allocation](https://github.com/AshmitaArumugam/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshmitaArumugam/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshmitaArumugam/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AshmitaArumugam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AshmitaArumugam/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshmitaArumugam/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshmitaArumugam/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/AshmitaArumugam/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/AshmitaArumugam/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/AshmitaArumugam/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/AshmitaArumugam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/AshmitaArumugam/LeetCode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/AshmitaArumugam/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/AshmitaArumugam/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -231,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AshmitaArumugam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2029-stone-game-ix](https://github.com/AshmitaArumugam/LeetCode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshmitaArumugam/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
@@ -285,4 +289,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AshmitaArumugam/LeetCode/tree/master/0836-rectangle-overlap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AshmitaArumugam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AshmitaArumugam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
