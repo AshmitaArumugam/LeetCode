@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AshmitaArumugam/LeetCode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/AshmitaArumugam/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AshmitaArumugam/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AshmitaArumugam/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AshmitaArumugam/LeetCode/tree/master/1406-stone-game-iii) |
@@ -280,4 +281,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/AshmitaArumugam/LeetCode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/AshmitaArumugam/LeetCode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AshmitaArumugam/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AshmitaArumugam/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
