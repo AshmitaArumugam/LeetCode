@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/AshmitaArumugam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1386-cinema-seat-allocation](https://github.com/AshmitaArumugam/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshmitaArumugam/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshmitaArumugam/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshmitaArumugam/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshmitaArumugam/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshmitaArumugam/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitaArumugam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshmitaArumugam/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AshmitaArumugam/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshmitaArumugam/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshmitaArumugam/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/AshmitaArumugam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/AshmitaArumugam/LeetCode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/AshmitaArumugam/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshmitaArumugam/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/AshmitaArumugam/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AshmitaArumugam/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AshmitaArumugam/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/AshmitaArumugam/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshmitaArumugam/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/AshmitaArumugam/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AshmitaArumugam/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AshmitaArumugam/LeetCode/tree/master/2029-stone-game-ix) |
