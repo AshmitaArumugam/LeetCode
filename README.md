@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AshmitaArumugam/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/AshmitaArumugam/LeetCode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AshmitaArumugam/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AshmitaArumugam/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AshmitaArumugam/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Matrix
 |  |
