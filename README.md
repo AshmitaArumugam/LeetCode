@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AshmitaArumugam/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshmitaArumugam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AshmitaArumugam/LeetCode/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/AshmitaArumugam/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AshmitaArumugam/LeetCode/tree/master/0877-stone-game) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AshmitaArumugam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshmitaArumugam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/AshmitaArumugam/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshmitaArumugam/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AshmitaArumugam/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AshmitaArumugam/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AshmitaArumugam/LeetCode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/AshmitaArumugam/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AshmitaArumugam/LeetCode/tree/master/0877-stone-game) |
